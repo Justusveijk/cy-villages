@@ -1,0 +1,7 @@
+moduli_data*/
+*.zip
+ckpt_*
+generalist.weights.h5
+__pycache__/
+.DS_Store
+cy311/

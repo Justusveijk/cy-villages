@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Villages in the string landscape: warm-starting Calabi-Yau metrics across a family"
+authors:
+  - family-names: van Eijk
+    given-names: Justus
+    affiliation: Numina Labs / University of Amsterdam
+date-released: 2026-09-13
+version: "0.1"
+url: https://github.com/Justusveijk/cy-villages

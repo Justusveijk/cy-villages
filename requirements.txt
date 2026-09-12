@@ -1,0 +1,5 @@
+# Python 3.11. cymetric pins tensorflow<2.15.
+cymetric @ git+https://github.com/pythoncymetric/cymetric.git
+numpy<2
+pandas
+matplotlib
